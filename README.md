@@ -1,5 +1,3 @@
-<p><img src="https://www.circonus.com/wp-content/uploads/2015/03/sol-icon-itOps.png" alt="graph logo" title="graph" align="right" height="60" /></p>
-
 # Ansible Role: node exporter
 
 ## Description
